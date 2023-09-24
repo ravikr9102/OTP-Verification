@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Signin from './components/Signin';
-import Otp from './components/Otp';
+import Verify from './components/Verify';
 import { Routes, Route } from 'react-router-dom';
 import axios from 'axios';
 import { toast } from 'react-toastify';
@@ -96,7 +96,7 @@ function App() {
           exact
           path="/otp"
           element={
-            <Otp
+            <Verify
               verifyOtp={verifyOtp}
               enteredOtp={enteredOtp}
               setEnteredOtp={setEnteredOtp}

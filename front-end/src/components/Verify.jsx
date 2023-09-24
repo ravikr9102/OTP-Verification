@@ -6,7 +6,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { useEffect } from 'react';
 import Success from './Success';
 
-export default function Otp(props) {
+export default function Verify(props) {
   useEffect(() => {
     toast.success(`OTP is : ${props.otp}`, {
       position: toast.POSITION.TOP_CENTER,
