@@ -1,7 +1,7 @@
 OTP Verification System
 This repository contains a simple OTP (One-Time Password) verification system with a frontend and backend component. It allows users to enter their mobile number, receive an OTP, and verify it. This system can serve as a basic example of how OTP verification can be implemented in a web application.
 
-OTP Verification System
+![alt text](http://url/to/![Alt text](<Screenshot from 2023-09-26 18-57-50.png>)) OTP Verification System
 
 Table of Contents
 Project Overview
