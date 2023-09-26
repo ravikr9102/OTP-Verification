@@ -1,7 +1,12 @@
 OTP Verification System
-This repository contains a simple OTP (One-Time Password) verification system with a frontend and backend component. It allows users to enter their mobile number, receive an OTP, and verify it. This system can serve as a basic example of how OTP verification can be implemented in a web application.
 
-![alt text](http://url/to/![Alt text](<Screenshot from 2023-09-26 18-57-50.png>)) OTP Verification System
+This repository contains a simple OTP (One-Time Password) verification system with a frontend and backend component. 
+It allows users to enter their mobile number, receive an OTP, and verify it. 
+This system can serve as a basic example of how OTP verification can be implemented in a web application.
+
+
+OTP Verification System
+![YOAMfvkOWxzs](https://github.com/ravikr9102/OTP-Verification/assets/97108305/ecce65a7-eb50-4430-9c95-478f02bc631c)
 
 Table of Contents
 Project Overview
@@ -27,17 +32,17 @@ server: This folder contains the backend code for the OTP verification system. I
 Screenshots
 Here are some screenshots of the OTP Verification System in action:
 
-Sign-In Page
+![YOAMfvkOWxzs](https://github.com/ravikr9102/OTP-Verification/assets/97108305/ecce65a7-eb50-4430-9c95-478f02bc631c)
 Sign-In Page
 
 Entering Mobile Number
-Entering Mobile Number
+![Untitled design](https://github.com/ravikr9102/OTP-Verification/assets/97108305/c6c87c40-abfd-4c1d-9b1c-aeebdcf10574)
 
 Verification Page
-Verification Page
+![Untitled design (1)](https://github.com/ravikr9102/OTP-Verification/assets/97108305/e73c2fa3-897e-4737-8b52-6931ce9cf23f)
 
 Success Page
-Success Page
+![Untitled design (2)](https://github.com/ravikr9102/OTP-Verification/assets/97108305/dda5936b-98b4-4a68-908f-9f97d0e53886)
 
 Getting Started
 To run this OTP verification system locally, follow these steps:
@@ -72,7 +77,7 @@ node server.js
 Make sure to configure the backend to use the appropriate ports and URLs in your environment.
 
 Usage
-Access the frontend application in your web browser by visiting http://localhost:3000.
+Access the frontend application in your web browser by visiting http://localhost:5173.
 Enter a valid mobile number and select the country code.
 Click the "Sign in with OTP" button to receive an OTP.
 Enter the received OTP and click the "Verify" button.
